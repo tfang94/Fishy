@@ -6,4 +6,4 @@ I decided to create the game fishy, which I played as a kid.  Premise is simple.
 
 To play the game, run the game.java file.  In the case that music and background aren't coming through, move background1.wav, burp.wav, and water.jpg to the root folder.
 
-![](images/fishy.png)
+![](images/Fishy.png)
